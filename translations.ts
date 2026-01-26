@@ -18,7 +18,7 @@ export const translations = {
     btn_submit: 'Отправить',
     btn_processing: 'Обработка...',
     
-    footer_text: 'InstaPromo. Все права защищены.',
+    footer_text: 'DLuxeTools. Все права защищены.',
     
     modal_success: 'Отлично!',
     modal_error: 'Ошибка',
@@ -46,7 +46,7 @@ export const translations = {
     btn_submit: 'Send Followers',
     btn_processing: 'Processing...',
     
-    footer_text: 'InstaPromo. All rights reserved.',
+    footer_text: 'DLuxeTools. All rights reserved.',
     
     modal_success: 'Awesome!',
     modal_error: 'Error Occurred',
@@ -74,7 +74,7 @@ export const translations = {
     btn_submit: 'Takipçileri Gönder',
     btn_processing: 'İşleniyor...',
     
-    footer_text: 'InstaPromo. Tüm hakları saklıdır.',
+    footer_text: 'DLuxeTools. Tüm hakları saklıdır.',
     
     modal_success: 'Harika!',
     modal_error: 'Hata Oluştu',
