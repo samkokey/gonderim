@@ -1,5 +1,3 @@
-import { Language } from './types';
-
 export const translations = {
   ru: {
     marketing_badge: '🚀 Ваш помощник в соцсетях',
