@@ -79,7 +79,7 @@ const App: React.FC = () => {
             <InstagramIcon className="w-6 h-6" />
           </div>
           <span className="text-xl font-bold tracking-tight text-slate-800 hidden sm:inline">
-            Insta<span className="text-pink-600">Promo</span>
+            DLuxe<span className="text-pink-600">Tools</span>
           </span>
         </div>
         
