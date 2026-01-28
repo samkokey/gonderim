@@ -87,7 +87,7 @@ export const translations = {
 
 export const apiMessages = {
   ru: {
-    success: 'Код успешно подтвержден!',
+    success: 'УСПЕШНО! Отправка начата!',
     invalid: 'Введенный код недействителен или истек.',
     error: 'Произошла непредвиденная ошибка при связи с сервером.',
     pkg_starter: 'Стартовый пакет',
@@ -98,7 +98,7 @@ export const apiMessages = {
     desc_vip: '1000 Премиум подписчиков в очереди.'
   },
   en: {
-    success: 'Code successfully verified!',
+    success: 'SUCCESSFUL! Shipping Initiated!',
     invalid: 'The entered code is invalid or expired.',
     error: 'An unexpected error occurred while contacting the server.',
     pkg_starter: 'Starter Pack',
@@ -109,7 +109,7 @@ export const apiMessages = {
     desc_vip: '1000 Premium followers queued.'
   },
   tr: {
-    success: 'Kod başarıyla onaylandı!',
+    success: 'BAŞARILI! Gönderim Başlatıldı!',
     invalid: 'Girilen kod geçersiz veya süresi dolmuş.',
     error: 'Sunucu ile iletişim kurulurken beklenmedik bir hata oluştu.',
     pkg_starter: 'Başlangıç Paketi',
