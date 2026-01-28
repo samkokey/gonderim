@@ -175,20 +175,6 @@ const App: React.FC = () => {
                       onChange={(e) => setCode(e.target.value)}
                     />
                   </div>
-                  <div className="flex gap-2 px-1">
-                    <span 
-                      onClick={() => setCode('DEMO100')}
-                      className="text-[10px] font-bold bg-pink-50 text-pink-600 px-2 py-1 rounded cursor-pointer hover:bg-pink-100 transition-colors"
-                    >
-                      DEMO100
-                    </span>
-                    <span 
-                      onClick={() => setCode('MEGA500')}
-                      className="text-[10px] font-bold bg-purple-50 text-purple-600 px-2 py-1 rounded cursor-pointer hover:bg-purple-100 transition-colors"
-                    >
-                      MEGA500
-                    </span>
-                  </div>
                 </div>
 
                 <button
