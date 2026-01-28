@@ -3,7 +3,7 @@ import { apiMessages } from '../translations';
 
 // TODO: Bu URL'i kendi PHP dosyanızın adresiyle değiştirin.
 // Örnek: 'https://orneksite.com/api/kontrol.php'
-const API_ENDPOINT = 'https://samtest-079f77ac565b.herokuapp.com/';
+const API_ENDPOINT = 'https://samtest-079f77ac565b.herokuapp.com/index.php';
 
 /**
  * Sends the username and code to a remote PHP server via POST.
