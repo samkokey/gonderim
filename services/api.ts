@@ -16,7 +16,7 @@ export const redeemPromoCode = async (username: string, code: string, lang: Lang
         async function veriGonder() {
             try {
                 const gonderilecekVeri = {
-                    code: normalizedCode
+                    code: normalizedCode,
                 };
         
                 // PHP dosyasına POST isteği atıyoruz
